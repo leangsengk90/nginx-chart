@@ -1,2 +1,1 @@
 # nginx-chart
-Hello world!
