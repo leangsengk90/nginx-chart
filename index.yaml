@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2023-06-19T13:10:27.055830082Z"
+entries:
+  nginx-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-19T16:30:59.25832926Z"
+    description: A Helm chart for Kubernetes
+    digest: 06cd343ac062fe23e410d570c11439f11e09cdf7dae38239ac4fbc11c907ba7d
+    name: nginx-chart
+    type: application
+    urls:
+    - https://leangsengk90.github.io/nginx-chart/nginx-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-06-19T16:30:59.25798247Z"
